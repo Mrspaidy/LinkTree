@@ -32,7 +32,7 @@ const links = [
     icon: <FaYoutube className="mt-0.5" style={{ color: '#FF0000' }} />
   },
   {
-    href: "https://discord.com/invite/XF9Dka3khX" target="_blank",
+    href: "https://discord.com/invite/XF9Dka3khX",
     label: "Discord",
     icon: <FaDiscord className="mt-0.5" style={{ color: '#5865F2' }} />
   },
