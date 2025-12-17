@@ -47,6 +47,11 @@ const links = [
      label: "Telegram",
      icon: <FaTelegram className="mt-0.5" style={{ color: '#0088cc' }} />
    },
+  {
+     href: "https://t.me/+GrpsJPvdOaUxZDNl" ,
+     label: "Telegram",
+     icon: <FaTelegram className="mt-0.5" style={{ color: '#0088cc' }} />
+   },
 ];
 
 export default function Home() {
