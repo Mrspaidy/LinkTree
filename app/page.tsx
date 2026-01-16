@@ -22,21 +22,10 @@ const ClientWrapper = dynamic(() => import('./components/ui/client-wrapper'), {
 
 const links = [
   {
-    href: "https://www.darkavengers.in",
-    label: "Dark Avengers",
-    icon: <FaGlobe className="mt-0.5" style={{ color: '#0ea5e9' }} />
-  },
-  {
     href: "https://www.youtube.com/@_mr.spaidy_",
     label: "YouTube",
     icon: <FaYoutube className="mt-0.5" style={{ color: '#FF0000' }} />
   },
-  {
-    href: "https://discord.gg/jCbhTd55Hj",
-    label: "Discord",
-    icon: <FaDiscord className="mt-0.5" style={{ color: '#5865F2' }} />
-  },
-
   {
     href: "https://www.instagram.com/_mr.spaidy_",
     label: "Instagram",
@@ -44,11 +33,6 @@ const links = [
   },
    {
      href: "https://t.me/AdvanceEthicalHacking" ,
-     label: "Telegram",
-     icon: <FaTelegram className="mt-0.5" style={{ color: '#0088cc' }} />
-   },
-  {
-     href: "https://t.me/+GrpsJPvdOaUxZDNl" ,
      label: "Telegram",
      icon: <FaTelegram className="mt-0.5" style={{ color: '#0088cc' }} />
    },
